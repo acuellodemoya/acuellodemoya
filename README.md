@@ -1,6 +1,7 @@
 ### Hi there 👋
 ---
-I´m PHP and Python programmer from Colombia, System Engineering Student.
+Soy un programador en Python y PHP de **Colombia**. Estudiante de ingenieria de sistemas de la Universidad de la Costa
+Con conocimientos en Machine learning, estudiante Platzi.
 
 
 <!--
