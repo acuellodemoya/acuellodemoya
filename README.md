@@ -1,7 +1,9 @@
-### Hi there 👋
+### ¡Hola! 👋
 ---
-Soy un programador en Python y PHP de **Colombia**. Estudiante de ingenieria de sistemas de la Universidad de la Costa
-Con conocimientos en Machine learning, estudiante Platzi.
+Soy estudiante de ingenieria de Sistemas de la Universidad de la Costa, desarrollador backend y programador
+en Python y PHP.
+Curioso amante de la ciencia y la tecnología.
+
 
 
 <!--
