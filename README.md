@@ -1,7 +1,7 @@
 ### ¡Hola! 👋
 ---
 Soy estudiante de ingenieria de Sistemas de la Universidad de la Costa, desarrollador backend y programador
-en Python y PHP.
+en Python.
 Curioso amante de la ciencia y la tecnología.
 
 
