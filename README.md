@@ -7,7 +7,7 @@ Email: acuellodemoya@gmail.com
 [Page](https://acuellodemoya.github.io/Portafolio/) | [LinkedIn](https://www.linkedin.com/in/alejandro-cuello-de-moya-02404619a) | [Twitter](https://twitter.com/cuellomoya)
 ### About my skills
 ---
-Currently learning de **MERN** Stack 
+Currently learning the **MERN** Stack 
 ```javascript
   const alejandro = () => {
     data = {
