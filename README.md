@@ -7,12 +7,12 @@ Email: acuellodemoya@gmail.com
 [Page](https://acuellodemoya.github.io/Portafolio/) | [LinkedIn](https://www.linkedin.com/in/alejandro-cuello-de-moya-02404619a) | [Twitter](https://twitter.com/cuellomoya)
 ### About my skills
 ---
-Currently learning the **MERN** Stack 
+Currently learning NestJs 
 ```javascript
   const alejandro = () => {
     data = {
       code: [Javascript, Python, HTML],
-      tools: [NodeJS, Express, Django, MongoDB, React, MySql]
+      tools: [NodeJS, Express, NestJs, MongoDB, React, MySql]
     }
   
     return data;
