@@ -11,7 +11,7 @@ Currently learning NestJs
 ```javascript
   const alejandro = () => {
     data = {
-      code: [Javascript, Python, HTML],
+      code: [TypeScript, Javascript, Python, HTML],
       tools: [NodeJS, Express, NestJs, MongoDB, React, MySql]
     }
   
