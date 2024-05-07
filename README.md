@@ -1,6 +1,6 @@
 ## Hi! I'm Alejandro 👋
 ---
-I'm a student of Computer Science at Universidad de la Costa and web developer...
+I'm a System engineer, AWS Solutions architect and Developer...
 ### About me
 ---
 Email: acuellodemoya@gmail.com  
@@ -11,8 +11,8 @@ Currently learning NestJs
 ```javascript
   const alejandro = () => {
     data = {
-      code: [TypeScript, JavaScript, Python, HTML, CSS],
-      tools: [NodeJS, Express, NestJS, MongoDB, React, MySql]
+      code: [TypeScript, JavaScript, Python],
+      tools: [AWS, NodeJS, Express, NestJS, MongoDB, MySql]
     }
   
     return data;
